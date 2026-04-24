@@ -2,9 +2,10 @@
 
 ## 🚀 About Me
 - 🎓 B.Tech Student
-- 💻 Interested in Web Development & AI
-- 📊 Learning Data Science
-- 🔥 Passionate about real-world projects
+- 📊 Interested in Data Analysis, Machine Learning & AI
+- 🧠 Learning statistics, probability & real-world data problems
+- 📈 Passionate about extracting insights from data
+- ⚙️ Working with Python, ML libraries, and datasets
 
 ---
 
@@ -17,42 +18,39 @@
 ## 💻 Tech Stack & Languages
 
 ### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 
 ---
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-
----
-
-### 🧠 Data Science & AI
+### 📊 Data Science & Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge&logo=plotly)
+![Seaborn](https://img.shields.io/badge/Seaborn-lightblue?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
 
 ---
 
+### 🤖 Machine Learning / AI
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-purple?style=for-the-badge)
+
+---
+
 ### 🛠️ Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/Colab-yellow?style=for-the-badge&logo=googlecolab)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 
 ---
 
-### 📱 App Development (Optional)
-![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-
----
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)---
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=sarvjit-patil&show_icons=true&theme=radical)
@@ -65,9 +63,10 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvjit-patil&layout=compact&theme=radical)
 
 ---
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=sarvjit-patil&theme=darkhub)
+## 🚀 Current Focus
+- 📊 Exploratory Data Analysis (EDA)
+- 🤖 Building ML models (Regression, Classification)
+- 📈 Data Visualization & Insights
 
 ---
 
